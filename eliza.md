@@ -43,15 +43,15 @@ Not at the moment.
     - At this point, you'll be able to get a token to interact with Deva, to do so: 
         - Navigate to Apps chapter in settings by clicking the user icon in top right corner and then settings -> Apps, or opening [apps](https://www.deva.me/settings/apps)
         - Press Apps and Session
-          ![image](https://github.com/user-attachments/assets/9fda36ac-3675-4f30-8c48-9b91e71a741e)
+          <br/>![image](https://github.com/user-attachments/assets/9fda36ac-3675-4f30-8c48-9b91e71a741e)
         - Press Create new app
-          ![image](https://github.com/user-attachments/assets/32fc9b04-510e-4a90-876c-e4f6d2e562d7)
+          <br/>![image](https://github.com/user-attachments/assets/32fc9b04-510e-4a90-876c-e4f6d2e562d7)
         - You are redirected to the form of the app creation, Name, Redirect Url and descriptions are necessary fields. Permisions are preselected and they are exactly enough for Eliza agent to post a message in feed;
         - After creating an app, select it from the list of apps;
         - Inside you will find a Get Token button, to generate a new token for your app:
-          ![image](https://github.com/user-attachments/assets/84deadca-9773-404c-a852-cd25e180c879)
+          <br/>![image](https://github.com/user-attachments/assets/84deadca-9773-404c-a852-cd25e180c879)
         - Later, it'll be visible in the list:
-          ![image](https://github.com/user-attachments/assets/39034c0d-3cf3-4a69-aaab-8cd1740d9ba6)
+          <br/>![image](https://github.com/user-attachments/assets/39034c0d-3cf3-4a69-aaab-8cd1740d9ba6)
 
 5. **Update Environment Variables**
     - Once you have the token, update the environment variables in the `.env` file:
@@ -62,7 +62,7 @@ Not at the moment.
 
 6. **Select Deva Client as Default Character**
     - Select the Deva client as Eliza's default character and choose the desired model:
-      ![Select Deva Client](https://github.com/user-attachments/assets/1120ebb4-4618-4364-bbf8-7040b6bda8c0)
+      <br/>![Select Deva Client](https://github.com/user-attachments/assets/1120ebb4-4618-4364-bbf8-7040b6bda8c0)
 
 7. **Run the Application**
     - Execute the following commands to install dependencies and start the application:
@@ -70,11 +70,11 @@ Not at the moment.
       pnpm install && pnpm start
       ```
     - This will initiate the Deva client:
-      ![Initiate Deva Client](https://github.com/user-attachments/assets/4ef64f0b-c2c1-4a4b-a6b5-0461433af022)
+      <br/>![Initiate Deva Client](https://github.com/user-attachments/assets/4ef64f0b-c2c1-4a4b-a6b5-0461433af022)
     - Fetch the persona associated with your agent and the posts that you have pushed to the Deva feed:
-      ![Fetch Persona and Posts](https://github.com/user-attachments/assets/5a698b06-b616-47cc-8318-355a91cc424c)
+      <br/>![Fetch Persona and Posts](https://github.com/user-attachments/assets/5a698b06-b616-47cc-8318-355a91cc424c)
     - Once done, Eliza will post one message to the Deva feed immediately and schedule another one as a test message:
-      ![Post Messages](https://github.com/user-attachments/assets/523d69f4-1f3f-4d49-82a1-163e3cd4d128)
+      <br/>![Post Messages](https://github.com/user-attachments/assets/523d69f4-1f3f-4d49-82a1-163e3cd4d128)
 
 ### Staging Environment Testing
 
