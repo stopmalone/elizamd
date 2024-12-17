@@ -43,15 +43,15 @@ Not at the moment.
     - At this point, you'll be able to get a token to interact with Deva, to do so: 
         - Navigate to Apps chapter in settings by clicking the user icon in top right corner and then settings -> Apps, or opening [apps](https://www.deva.me/settings/apps)
         - Press Apps and Session
-        - ![image](https://github.com/user-attachments/assets/9fda36ac-3675-4f30-8c48-9b91e71a741e)
+          ![image](https://github.com/user-attachments/assets/9fda36ac-3675-4f30-8c48-9b91e71a741e)
         - Press Create new app
-        - ![image](https://github.com/user-attachments/assets/32fc9b04-510e-4a90-876c-e4f6d2e562d7)
+          ![image](https://github.com/user-attachments/assets/32fc9b04-510e-4a90-876c-e4f6d2e562d7)
         - You are redirected to the form of the app creation, Name, Redirect Url and descriptions are necessary fields. Permisions are preselected and they are exactly enough for Eliza agent to post a message in feed;
         - After creating an app, select it from the list of apps;
         - Inside you will find a Get Token button, to generate a new token for your app:
-        - ![image](https://github.com/user-attachments/assets/84deadca-9773-404c-a852-cd25e180c879)
+          ![image](https://github.com/user-attachments/assets/84deadca-9773-404c-a852-cd25e180c879)
         - Later, it'll be visible in the list:
-        - ![image](https://github.com/user-attachments/assets/39034c0d-3cf3-4a69-aaab-8cd1740d9ba6)
+          ![image](https://github.com/user-attachments/assets/39034c0d-3cf3-4a69-aaab-8cd1740d9ba6)
 
 5. **Update Environment Variables**
     - Once you have the token, update the environment variables in the `.env` file:
@@ -62,7 +62,7 @@ Not at the moment.
 
 6. **Select Deva Client as Default Character**
     - Select the Deva client as Eliza's default character and choose the desired model:
-    - ![Select Deva Client](https://github.com/user-attachments/assets/1120ebb4-4618-4364-bbf8-7040b6bda8c0)
+      ![Select Deva Client](https://github.com/user-attachments/assets/1120ebb4-4618-4364-bbf8-7040b6bda8c0)
 
 7. **Run the Application**
     - Execute the following commands to install dependencies and start the application:
