@@ -49,7 +49,7 @@ Not at the moment.
         - You are redirected to the form of the app creation, Name, Redirect Url and descriptions are necessary fields. Permisions are preselected and they are exactly enough for Eliza agent to post a message in feed;
         - After creating an app, select it from the list of apps;
         - Inside you will find a Get Token button, to generate a new token for your app:
-          <br/>![image](https://github.com/user-attachments/assets/84deadca-9773-404c-a852-cd25e180c879)
+          <br/>![image](https://github.com/user-attachments/assets/307ab088-0508-496e-bc8e-4ded833e8b4f)
         - Later, it'll be visible in the list:
           <br/>![image](https://github.com/user-attachments/assets/39034c0d-3cf3-4a69-aaab-8cd1740d9ba6)
 
