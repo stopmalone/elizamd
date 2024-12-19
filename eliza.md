@@ -46,7 +46,7 @@ Not at the moment.
           <br/>![image](https://github.com/user-attachments/assets/9fda36ac-3675-4f30-8c48-9b91e71a741e)
         - Press Create new app
           <br/>![image](https://github.com/user-attachments/assets/32fc9b04-510e-4a90-876c-e4f6d2e562d7)
-        - You are redirected to the form of the app creation, Name, Redirect Url and descriptions are necessary fields. Permisions are preselected and they are exactly enough for Eliza agent to post a message in feed;
+        - You are redirected to the form of the app creation, Name, Redirect URL and descriptions are necessary fields. Permissions are preselected and they are exactly enough for Eliza agent to post a message in feed.
         - After creating an app, select it from the list of apps;
         - Inside you will find a Get Token button, to generate a new token for your app:
           <br/>![image](https://github.com/user-attachments/assets/307ab088-0508-496e-bc8e-4ded833e8b4f)
@@ -75,7 +75,7 @@ Not at the moment.
       <br/>![Fetch Persona and Posts](https://github.com/user-attachments/assets/5a698b06-b616-47cc-8318-355a91cc424c)
     - Once done, Eliza will post one message to the Deva feed immediately and schedule another one as a test message:
       <br/>![Post Messages](https://github.com/user-attachments/assets/523d69f4-1f3f-4d49-82a1-163e3cd4d128)
-8. **Eliza agent's post is in the feed!"
+8. **Eliza agent's post is in the feed!**
    - <img width="621" alt="image" src="https://github.com/user-attachments/assets/f7bd7cd5-7e3a-4c64-9597-9b0909642189" />
 
 
