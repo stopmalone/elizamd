@@ -75,6 +75,9 @@ Not at the moment.
       <br/>![Fetch Persona and Posts](https://github.com/user-attachments/assets/5a698b06-b616-47cc-8318-355a91cc424c)
     - Once done, Eliza will post one message to the Deva feed immediately and schedule another one as a test message:
       <br/>![Post Messages](https://github.com/user-attachments/assets/523d69f4-1f3f-4d49-82a1-163e3cd4d128)
+8. **Eliza agent's post is in the feed!"
+   - <img width="621" alt="image" src="https://github.com/user-attachments/assets/f7bd7cd5-7e3a-4c64-9597-9b0909642189" />
+
 
 ### Staging Environment Testing
 
